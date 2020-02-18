@@ -16,16 +16,25 @@ DEPLOYED APPLICATION: https://violetshirokuma.github.io/DeveloperProfileGen.gith
 This is a command-line application that generates information from your Github account. Populated fields include profile image, username, as well as links that lead to a user's location via Google Maps, their Github account, their designated blog/portfolio, number of repositories, number of followers, stars, and who you are following.
 
 
-<h2>Utilizations: </h2>
+<h2>Utilizations:</h2>
+
 * Node.JS
+
 * Javascript
+
 * Google Maps API
+
 * Github API
 
 
-<h2>Dependencies: </h2>
+<h2>Dependencies:</h2>
+
 * axios
+
 * electron
+
 * electron-html-to
+
 * fs
+
 * inquirer
