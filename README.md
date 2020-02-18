@@ -23,7 +23,7 @@ This is a command-line application that generates information from your Github a
 * Github API
 
 
-Dependencies: 
+<h2>Dependencies: </h2>
 * axios
 * electron
 * electron-html-to
