@@ -17,11 +17,14 @@ This is a command-line application that generates information from your Github a
 
 
 <h2>Utilizations: </h2>
-  Node.JS, Javascript, Google Maps API, Github API
+ * Node.JS
+ * Javascript
+ * Google Maps API
+ * Github API
 
 Dependencies: 
-axios
-electron
-electron-html-to
-fs
-inquirer
+* axios
+* electron
+* electron-html-to
+* fs
+* inquirer
