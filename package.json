@@ -19,7 +19,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
-    "electron": "^8.0.1",
+    "electron": "^8.2.4",
     "electron-html-to": "^2.6.0",
     "fs": "0.0.1-security",
     "inquirer": "^7.0.4"
